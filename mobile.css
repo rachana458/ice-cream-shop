@@ -1,0 +1,39 @@
+@media  screen and (max-width:1214px)
+
+{
+  .navigation{
+    flex-direction: column;
+    margin: -9px -1px 0px -105px;
+}.nav-left{
+    margin: -4px 0px 0px 61px;
+    position: fixed;
+    right: 675px;
+}.nav-right{
+    margin: 26px 0px 0px -21px;
+    position: fixed;
+    right: 377px;
+}
+.card-1{
+    padding-right: 2px;
+    margin-right: 2px;
+    width: 381%;
+    margin-top: 45px;
+}
+.owl-item{
+    margin: 2px 0px 0px 1px;
+} 
+.owl-write{
+    margin: -386px -453px 0px 4px;
+}
+.contact{
+    background-color: rgb(5, 5, 5);
+}
+.my{
+    margin: -409px 0px 0px -498px;
+}
+.icon1{
+    
+    margin: 400px 0px 0px -289px;
+}
+
+}
